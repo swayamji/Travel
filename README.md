@@ -21,11 +21,4 @@ Travel.com is a fully responsive and visually appealing website designed to show
   - Search form toggle
   - Dynamic scroll effects
 
-## Folder Structure
-Tour-Project-main/
-├── images/ # All images used in the website
-├── screenshots/ # Screenshots for reference
-├── index.html # Main HTML file
-├── style.css # Styling for the website
-├── script.js # JavaScript for interactivity
-└── contact_us.php # Backend for contact form
+
